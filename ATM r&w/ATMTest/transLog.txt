@@ -1,0 +1,6 @@
+                                        Transaction Log
+
+AccountID#     Account Type        Transaction Type     Amount     Old Balance     New Balance     Fee (if applicable)     
+
+1001           Checking Account    Credit               $5.00       $2222.42         $2226.42         $1.00                    
+1001           Checking Account    Debit                $5.00       $2226.42        $2220.42        $1.00                   

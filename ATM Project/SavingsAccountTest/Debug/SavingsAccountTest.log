@@ -1,0 +1,6 @@
+﻿  DollarAmount.cpp
+C:\Users\cc047\Documents\CS Practice\Projects\ATM Project\SavingsAccountTest\DollarAmount.cpp(94,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SavingsAccount.cpp
+  SavingsAccountTest.cpp
+  Generating Code...
+  SavingsAccountTest.vcxproj -> C:\Users\cc047\Documents\CS Practice\Projects\ATM Project\SavingsAccountTest\Debug\SavingsAccountTest.exe
